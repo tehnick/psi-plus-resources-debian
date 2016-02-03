@@ -1,3 +1,9 @@
+psi-plus-resources (16.02.03-0ppa1~xenial1) xenial; urgency=medium
+
+  * New Git snapshot.
+
+ -- Boris Pek <tehnick@debian.org>  Wed, 03 Feb 2016 20:52:57 +0300
+
 psi-plus-resources (15.06.09-0ppa1~xenial1) xenial; urgency=medium
 
   * Initial release.
