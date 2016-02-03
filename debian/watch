@@ -1,0 +1,4 @@
+version=3
+https://github.com/psi-plus/resources/tags \
+.*/archive/v(\d.+)\.tar\.gz \
+debian uupdate

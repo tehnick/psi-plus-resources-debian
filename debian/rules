@@ -1,0 +1,18 @@
+#!/usr/bin/make -f
+
+PACKAGE = psi-plus-resources
+
+DEBIAN_PATH  := $(abspath $(dir $(firstword $(MAKEFILE_LIST))))
+USCAN_REPORT = $(shell uscan --noconf --report --dehs $(DEBIAN_PATH))
+CUR_VER = $(shell echo "$(USCAN_REPORT)" | sed -n 's/.*<upstream-version>\(.*\)<\/upstream-version>.*/\1/p')
+CUR_URL = $(shell echo "$(USCAN_REPORT)" | sed -n 's/.*<upstream-url>\(.*\)<\/upstream-url>.*/\1/p')
+
+%:
+	dh $@ --parallel --list-missing
+
+# override_dh_install:
+# 	dh_install
+# 	rm -r $(CURDIR)/debian/psi-plus-icons-nonfree/usr/share/psi-plus/iconsets/clients/minimal-pack*.jisp
+
+get-orig-source:
+	wget -c "$(CUR_URL)" -O "$(PACKAGE)_$(CUR_VER).orig.tar.gz"
