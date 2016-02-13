@@ -1,3 +1,10 @@
+psi-plus-resources (16.02.03-0ppa3~xenial1) xenial; urgency=medium
+
+  * Add psi-plus-icons-activities package to Breaks and Replaces
+    of psi-plus-icons-nonfree package.
+
+ -- Boris Pek <tehnick@debian.org>  Sat, 13 Feb 2016 23:22:10 +0300
+
 psi-plus-resources (16.02.03-0ppa2~xenial1) xenial; urgency=medium
 
   * Add outdated psi-plus-icons-* packages to Breaks and Replaces
