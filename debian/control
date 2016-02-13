@@ -11,13 +11,15 @@ Standards-Version: 3.9.6
 Package: psi-plus-icons-nonfree
 Architecture: all
 Depends: psi-plus | psi-plus-webkit, psi-plus-plugins, ${misc:Depends}
-Replaces: psi-plus-icons-affiliations,
+Replaces: psi-plus-icons-activities,
+          psi-plus-icons-affiliations,
           psi-plus-icons-clients,
           psi-plus-icons-emoticons,
           psi-plus-icons-moods,
           psi-plus-icons-roster,
           psi-plus-icons-system
-Breaks: psi-plus-icons-affiliations,
+Breaks: psi-plus-icons-activities,
+        psi-plus-icons-affiliations,
         psi-plus-icons-clients,
         psi-plus-icons-emoticons,
         psi-plus-icons-moods,
