@@ -1,3 +1,9 @@
+psi-plus-resources (16.02.03-1-g2f63096-0ppa1~xenial1) xenial; urgency=medium
+
+  * New Git snapshot.
+
+ -- Boris Pek <tehnick@debian.org>  Fri, 08 Apr 2016 00:45:08 +0300
+
 psi-plus-resources (16.02.03-0ppa3~xenial1) xenial; urgency=medium
 
   * Add psi-plus-icons-activities package to Breaks and Replaces
