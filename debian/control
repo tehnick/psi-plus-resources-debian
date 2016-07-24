@@ -26,7 +26,7 @@ Breaks: psi-plus-icons-activities,
         psi-plus-icons-roster,
         psi-plus-icons-system
 Description: additional icons for Psi+
- This package contains additional icons for Psi+. Due to issues with thier
+ This package contains additional icons for Psi+. Due to issues with their
  licenses they cannot be included into primary Psi+ tarballs.
  .
  Psi is a cross-platform powerful XMPP/Jabber client (Qt, C++) designed for the
