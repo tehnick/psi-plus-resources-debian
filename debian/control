@@ -1,40 +1,26 @@
 Source: psi-plus-resources
 Section: non-free/graphics
-Priority: extra
+Priority: optional
 Maintainer: Boris Pek <tehnick@debian.org>
 Build-Depends: debhelper (>= 9)
 Homepage: http://psi-plus.com/
 Vcs-Git: https://github.com/tehnick/psi-plus-resources-debian.git
 Vcs-Browser: https://github.com/tehnick/psi-plus-resources-debian
-Standards-Version: 3.9.6
+Standards-Version: 4.0.1
 
 Package: psi-plus-icons-nonfree
 Architecture: all
 Depends: psi-plus | psi-plus-webkit, psi-plus-plugins, ${misc:Depends}
-Replaces: psi-plus-icons-activities,
-          psi-plus-icons-affiliations,
-          psi-plus-icons-clients,
-          psi-plus-icons-emoticons,
-          psi-plus-icons-moods,
-          psi-plus-icons-roster,
-          psi-plus-icons-system
-Breaks: psi-plus-icons-activities,
-        psi-plus-icons-affiliations,
-        psi-plus-icons-clients,
-        psi-plus-icons-emoticons,
-        psi-plus-icons-moods,
-        psi-plus-icons-roster,
-        psi-plus-icons-system
 Description: additional icons for Psi+
  This package contains additional icons for Psi+. Due to issues with their
  licenses they cannot be included into primary Psi+ tarballs.
  .
- Psi is a cross-platform powerful XMPP/Jabber client (Qt, C++) designed for the
- Jabber power users. Psi+ is a development branch of Psi IM XMPP/Jabber client
- by <psi-dev@conference.jabber.ru> team.
+ Psi IM is a cross-platform powerful XMPP/Jabber client (Qt, C++) designed for
+ the Jabber power users. Psi+ is a development branch of Psi client by
+ <psi-dev@conference.jabber.ru> team.
  .
- Project Purpose: collection, refinement and writing new patches for transfer
- them to Psi upstream developers.
+ Project Purpose: collection, refinement and writing new patches for
+ transferring them to Psi IM upstream.
  .
  Full list of features you can found at:
- http://psi-plus.com/wiki/doku.php/en:features
+ http://psi-plus.com/wiki/en:features
