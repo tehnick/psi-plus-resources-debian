@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 9)
 Homepage: http://psi-plus.com/
 Vcs-Git: https://github.com/tehnick/psi-plus-resources-debian.git
 Vcs-Browser: https://github.com/tehnick/psi-plus-resources-debian
-Standards-Version: 4.0.1
+Standards-Version: 4.1.0
 
 Package: psi-plus-icons-nonfree
 Architecture: all
