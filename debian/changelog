@@ -1,3 +1,9 @@
+psi-plus-resources (17.06.02-1-g6726081-0ppa1~bionic1) bionic; urgency=medium
+
+  * New Git snapshot.
+
+ -- Boris Pek <tehnick@debian.org>  Fri, 02 Feb 2018 03:21:14 +0300
+
 psi-plus-resources (17.06.02-0ppa1~zesty1) zesty; urgency=medium
 
   * New Git snapshot.
