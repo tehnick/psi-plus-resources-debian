@@ -1,3 +1,9 @@
+psi-plus-resources (18.02.05-2-gc0bfb8a-0ppa1~cosmic1) cosmic; urgency=medium
+
+  * New Git snapshot.
+
+ -- Boris Pek <tehnick@debian.org>  Sat, 09 Jun 2018 00:00:27 +0300
+
 psi-plus-resources (18.02.05-0ppa1~bionic1) bionic; urgency=medium
 
   * New Git snapshot.
