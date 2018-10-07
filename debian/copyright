@@ -1,24 +1,20 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Debianized-By: Boris Pek <tehnick-8@mail.ru>
+Debianized-By: Boris Pek <tehnick-8@yandex.ru>
 Debianized-Date: Wed, 03 Feb 2016 16:37:52 +0300
 Upstream-Name: Psi+ resources
-Upstream-Contact: zet <vladimir.shelukhin@gmail.com>
-                  rion <rion4ik@gmail.com>
-                  Dealer_WeARE <wadealer@gmail.com>
-                  maj <maksim.maj@gmail.com>
-                  diSabler <dsy@dsy.name>
+Upstream-Contact: Sergey Ilinykh <rion4ik@gmail.com>
 Source: https://github.com/psi-plus/resources/tags
  The orig.tar.gz is just renamed upstream tarball (without changes).
  See section get-orig-source in debian/rules file for details.
 Disclaimer: this package contains non-free icons
 
 Files: *
-Copyright: 2011-2018 Psi+ developers
+Copyright: 2011-2018 Psi+ developers and others
 License: non-free
  These icon files are distributed under different free and non-free licenses.
 
 Files: debian/*
-Copyright: 2016-2018 Boris Pek <tehnick-8@mail.ru>
+Copyright: 2016-2018 Boris Pek <tehnick-8@yandex.ru>
 License: Expat
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal
