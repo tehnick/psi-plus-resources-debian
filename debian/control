@@ -3,10 +3,10 @@ Section: non-free/graphics
 Priority: optional
 Maintainer: Boris Pek <tehnick@debian.org>
 Build-Depends: debhelper (>= 9)
-Homepage: http://psi-plus.com/
+Homepage: https://psi-plus.com/
 Vcs-Git: https://github.com/tehnick/psi-plus-resources-debian.git
 Vcs-Browser: https://github.com/tehnick/psi-plus-resources-debian
-Standards-Version: 4.1.4
+Standards-Version: 4.2.1
 
 Package: psi-plus-icons-nonfree
 Architecture: all
@@ -15,12 +15,14 @@ Description: additional icons for Psi+
  This package contains additional icons for Psi+. Due to issues with their
  licenses they cannot be included into primary Psi+ tarballs.
  .
- Psi IM is a cross-platform powerful XMPP/Jabber client (Qt, C++) designed for
- the Jabber power users. Psi+ is a development branch of Psi client by
- <psi-dev@conference.jabber.ru> team.
+ Psi IM is a capable XMPP client aimed at experienced users. There are
+ keybindings for just about everything, Unicode is supported throughout,
+ contacts are cached offline. Security is also a major consideration, and
+ Psi IM provides it for both client-to-server (TLS) and client-to-client
+ (GnuPG, OTR, OMEMO).
  .
- Project Purpose: collection, refinement and writing new patches for
- transferring them to Psi IM upstream.
+ Psi+ is a development branch of Psi IM. Project purposes are:
+ implementation of new features, writing of patches and plugins for
+ transferring them to Psi IM.
  .
- Full list of features you can found at:
- http://psi-plus.com/wiki/en:features
+ Full list of features you may found at: http://psi-plus.com/wiki/en:features
