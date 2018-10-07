@@ -1,0 +1,10 @@
+# This lintian note never will be fixed by upstream developers: there are no
+# classical tarballs with "releases" at all, only automatically generated
+# tarballs from git tags exist.
+psi-plus-resources source: debian-watch-does-not-check-gpg-signature
+
+# ...
+psi-plus-resources source: source-only-upload-to-non-free-without-autobuild
+
+# ...
+psi-plus-resources source: testsuite-autopkgtest-missing
