@@ -5,7 +5,6 @@ Upstream-Name: Psi+ resources
 Upstream-Contact: Sergey Ilinykh <rion4ik@gmail.com>
 Source: https://github.com/psi-plus/resources/tags
  The orig.tar.gz is just renamed upstream tarball (without changes).
- See section get-orig-source in debian/rules file for details.
 Disclaimer: this package contains non-free icons
 
 Files: *
