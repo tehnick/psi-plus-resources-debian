@@ -1,6 +1,7 @@
 Name: Psi+ resources
-Changelog: https://github.com/psi-plus/resources/commits/master
 Contact: Sergey Ilinykh <rion4ik@gmail.com>
+Security-Contact: Sergey Ilinykh <rion4ik@gmail.com>
 Repository: https://github.com/psi-plus/resources.git
 Repository-Browse: https://github.com/psi-plus/resources
-Security-Contact: Sergey Ilinykh <rion4ik@gmail.com>
+Bug-Submit: https://github.com/psi-plus/resources/issues
+Changelog: https://github.com/psi-plus/resources/commits/master
