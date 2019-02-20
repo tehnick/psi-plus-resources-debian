@@ -3,12 +3,11 @@ Debianized-By: Boris Pek <tehnick-8@yandex.ru>
 Debianized-Date: Wed, 03 Feb 2016 16:37:52 +0300
 Upstream-Name: Psi+ resources
 Upstream-Contact: Sergey Ilinykh <rion4ik@gmail.com>
-Source: https://github.com/psi-plus/resources/tags
- The orig.tar.gz is just renamed upstream tarball (without changes).
+Source: https://github.com/psi-plus/resources
 Disclaimer: this package contains non-free icons
 
 Files: *
-Copyright: 2011-2018 Psi+ developers and others
+Copyright: 2011-2019 Psi+ developers and others
 License: non-free
  These icon files are distributed under different free and non-free licenses.
 
