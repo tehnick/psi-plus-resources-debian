@@ -1,3 +1,9 @@
+psi-plus-resources (19.02.20-0ppa1~disco1) disco; urgency=medium
+
+  * New Git snapshot.
+
+ -- Boris Pek <tehnick@debian.org>  Thu, 21 Feb 2019 01:59:17 +0300
+
 psi-plus-resources (18.02.05-3-gd623f57-0ppa1~cosmic1) cosmic; urgency=medium
 
   * New Git snapshot.
