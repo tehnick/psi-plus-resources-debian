@@ -4,7 +4,4 @@
 psi-plus-resources source: debian-watch-does-not-check-gpg-signature
 
 # ...
-psi-plus-resources source: source-only-upload-to-non-free-without-autobuild
-
-# ...
 psi-plus-resources source: testsuite-autopkgtest-missing
