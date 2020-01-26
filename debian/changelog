@@ -1,3 +1,9 @@
+psi-plus-resources (20.01.25-0ppa1~focal1) focal; urgency=medium
+
+  * New Git snapshot.
+
+ -- Boris Pek <tehnick@debian.org>  Sun, 26 Jan 2020 11:39:47 +0300
+
 psi-plus-resources (19.02.20+2+g2f1c125-0ppa2~focal1) focal; urgency=medium
 
   * Small improvements in the package.
