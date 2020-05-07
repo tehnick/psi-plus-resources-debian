@@ -1,3 +1,9 @@
+psi-plus-resources (20.04.21+12+gfd9879d-0ppa1~groovy1) groovy; urgency=medium
+
+  * New Git snapshot.
+
+ -- Boris Pek <tehnick@debian.org>  Fri, 08 May 2020 02:39:48 +0300
+
 psi-plus-resources (20.04.21+1+g4f39f51-0ppa1~groovy1) groovy; urgency=medium
 
   * New Git snapshot.
