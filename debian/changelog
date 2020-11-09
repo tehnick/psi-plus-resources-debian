@@ -1,3 +1,9 @@
+psi-plus-resources (20.04.21+13+ga00b363-0ppa2~hirsute1) hirsute; urgency=medium
+
+  * Small improvements in the package.
+
+ -- Boris Pek <tehnick@debian.org>  Tue, 10 Nov 2020 00:42:54 +0300
+
 psi-plus-resources (20.04.21+13+ga00b363-0ppa1~groovy1) groovy; urgency=medium
 
   * New Git snapshot.
