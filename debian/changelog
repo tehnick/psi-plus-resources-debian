@@ -1,3 +1,9 @@
+psi-plus-resources (20.04.21+13+ga00b363-0ppa3~impish1) impish; urgency=medium
+
+  * Small improvements in the package.
+
+ -- Boris Pek <tehnick@debian.org>  Sun, 25 Apr 2021 01:31:41 +0300
+
 psi-plus-resources (20.04.21+13+ga00b363-0ppa2~hirsute1) hirsute; urgency=medium
 
   * Small improvements in the package.
