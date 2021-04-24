@@ -1,4 +1,4 @@
 version=4
-https://github.com/psi-plus/resources/tags \
-.*/archive/v(\d.+)\.tar\.gz \
+https://github.com/psi-im/resources/tags \
+.*/archive/refs/tags/v(\d.+)\.tar\.gz \
 debian uupdate
