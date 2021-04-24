@@ -3,16 +3,16 @@ Debianized-By: Boris Pek <tehnick-8@yandex.ru>
 Debianized-Date: Wed, 03 Feb 2016 16:37:52 +0300
 Upstream-Name: Psi+ resources
 Upstream-Contact: Sergey Ilinykh <rion4ik@gmail.com>
-Source: https://github.com/psi-plus/resources
+Source: https://github.com/psi-im/resources
 Disclaimer: this package contains non-free icons
 
 Files: *
-Copyright: 2011-2019 Psi+ developers and others
+Copyright: 2011-2021 Psi+ developers and others
 License: non-free
  These icon files are distributed under different free and non-free licenses.
 
 Files: debian/*
-Copyright: 2016-2018 Boris Pek <tehnick-8@yandex.ru>
+Copyright: 2016-2021 Boris Pek <tehnick-8@yandex.ru>
 License: Expat
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal
