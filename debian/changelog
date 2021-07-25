@@ -1,3 +1,9 @@
+psi-plus-resources (21.07.07-0ppa1~impish1) impish; urgency=medium
+
+  * New Git snapshot.
+
+ -- Boris Pek <tehnick@debian.org>  Sun, 25 Jul 2021 08:45:14 +0300
+
 psi-plus-resources (21.05.08-0ppa1~impish1) impish; urgency=medium
 
   * New Git snapshot.
