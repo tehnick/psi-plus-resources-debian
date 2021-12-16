@@ -1,3 +1,9 @@
+psi-plus-resources (21.12.09-0ppa1~jammy1) jammy; urgency=medium
+
+  * New Git snapshot.
+
+ -- Boris Pek <tehnick@debian.org>  Thu, 16 Dec 2021 05:02:19 +0300
+
 psi-plus-resources (21.09.01-0ppa1~impish1) impish; urgency=medium
 
   * New Git snapshot.
