@@ -1,3 +1,9 @@
+psi-plus-resources (22.03.10-0ppa2~kinetic1) kinetic; urgency=medium
+
+  * Small improvements in the package.
+
+ -- Boris Pek <tehnick@debian.org>  Sat, 28 May 2022 03:59:31 +0300
+
 psi-plus-resources (22.03.10-0ppa1~jammy1) jammy; urgency=medium
 
   * New Git snapshot.
