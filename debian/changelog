@@ -1,3 +1,9 @@
+psi-plus-resources (22.07.22-0ppa1~kinetic1) kinetic; urgency=medium
+
+  * New Git snapshot.
+
+ -- Boris Pek <tehnick@debian.org>  Thu, 22 Sep 2022 11:48:37 +0300
+
 psi-plus-resources (22.05.30-0ppa1~kinetic1) kinetic; urgency=medium
 
   * New Git snapshot.
